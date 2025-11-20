@@ -10,9 +10,6 @@ Hi 👋 My name is Saurabh
 
 
 
-
- 
-
 * 🌍  A passionate full-stack developer from India
 * ✉️  You can contact me at [lanjewarsaurbh@gmail.com](mailto:lanjewarsaurbh@gmail.com)
 * 🧠  I'm learning React and NodeJS
