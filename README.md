@@ -5,7 +5,7 @@ Hi 👋 My name is Saurabh
     width="100%" />
 
 <h2>
-  Falling intro web development 💻 opened up a world of creativity 🎨 and innovation 🚀. It's where my love for code 🧑‍💻, tech  and meaningfulcommunities ❤️ came to life.
+  Falling intro web development 💻 opened up a world of creativity 🎨 and innovation 🚀. It's where my love for code 🧑‍💻, tech  and meaningful communities ❤️ came to life.
 </h2>
 
 
